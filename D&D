@@ -71,7 +71,7 @@ Dragones y mazmorras
 	<td>apoyo</td>
 </table>
 <h5>Image Maps</h5>
-<p>Click on the computer, the phone, or the cup of coffee to go to a new page and read more about the topic:</p>
+
 
 <img src="dados.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
 
