@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table, th, td {
+	border:1px solid black;
+}
+.razas{
+	
+	color:yellow ;
+	font-family:courier;
+	border: 5px solid black;
+	padding:10px;
+}
+body {
+  background-image: url('negro.jpg');
+}
+</style>
+<title>
+Dragones y mazmorras 
+</title>
+</head>
+<body>
+
+
+<h1><p style="color:red;font-size:60px;">Dragones y Mazmorras</p></h1>
+<img src="dNd.jpg" width="600" height="500">
+<p style="color:red;">>Dragones y mazmorras es un juego de rol de fantasia, en el que vives tu propia aventura con un equipo o en solitario.</p>
+<h2 id ="personajes"><p style="color:blue;">personaje</p></h2>
+<h3><p style="color:white;"> Ser jugador o ser master</p> <h3>
+<p style="font-size:14px;color:red">ser el master de la partida significa crear tus propias normas aunque puedas fijarte en misiones o mapas ya propios aqui algunos enlaces de misiones ya hechas <p>
+<h4> Jugador <h4>
+<p style="color:red;">> Estas son todas las razas que hay <p>
+<div class="razas">
+<p>Humano</p>
+</div>
+
+
+<div class="razas">
+<p>Elfo</p>
+</div>
+
+<div class="razas">
+<p>Enano</p>
+</div>
+
+<div class="razas">
+<p>Orco</p>
+</div>
+
+<table style="color:red;width:100%">
+  <tr>
+    <th>Clases</th>
+    <th>Estadisticas</th>
+    <th>Especialidad</th>
+  </tr>
+  <tr>
+    <td>Clerigo</td>
+    <td>Sabiduria</td>
+    <td>Hibrida</td>
+	
+  </tr>
+  <tr>
+    <td>Barbaro</td>
+    <td>Fuerza</td>
+    <td>Daño</td>
+  </tr>
+  <tr>
+	<td>Bardo</td>
+	<td>carisma</td>
+	<td>apoyo</td>
+</table>
+<h5>Image Maps</h5>
+<p>Click on the computer, the phone, or the cup of coffee to go to a new page and read more about the topic:</p>
+
+<img src="dados.jpg" alt="Workplace" usemap="#workmap" width="400" height="379">
+
+<map name="workmap">
+  <area shape="rect" coords="34,44,270,350" <a href=https://www.youtube.com/watch?v=dQw4w9WgXcQ"></a>
+
+</map>
+<h5>prueba tu suerte</h5>
+<button type="button"
+onclick="document.getElementById('demo').innerHTML = Math.floor(Math.random() * 20)">
+prueba tu suerte.</button>
+
+<p id="demo"style="color:red;"></p>
+</body>
+</html>
